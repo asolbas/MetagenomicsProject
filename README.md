@@ -11,10 +11,6 @@ The workflow consists on the following steps:
 1. Taxonomic profile of the microbial community in both temperature conditions. 
 2. Analysis of the genome of the most abundant organism. 
 3. RNAseq analysis
-  * FastQC analysis
-  * Read mapping
-  * Variant Calling
-  * Differential Expression Analysis
 4. Functional Analysis
 5. Phylogenetic Analysis
 
