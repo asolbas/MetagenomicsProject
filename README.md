@@ -24,6 +24,7 @@ Note that the data used in this work has not been included in the repository as 
 | `GA_basicChecks.sh` | Data Analysis pipeline of RNAseq files |
 | `GA_readMapping.sh` | Read mapping to reference genome pipeline |
 | `GA_variantCalling.sh` | variant Calling workflow |
+| `DEA.sh` | Data preparation for the Differential Expression Analysis |
 | `PA.sh` | Phylogenetic analysis pipeline |
 | `fastqc.sh` | FastQC analysis |
 
