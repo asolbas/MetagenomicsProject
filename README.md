@@ -21,7 +21,7 @@ Note that the data used in this work has not been included in the repository as 
 ## Dependencies
 
 - [mOTUs](https://motu-tool.org/)
-- [Burrows-Wheeler Aligner](https://bio-bwa.sourceforge.net/)
+- [Burrows-Wheeler Aligner (BWA)](https://bio-bwa.sourceforge.net/)
 - [BEDtools](https://bedtools.readthedocs.io/en/latest/)
 - [DESeq2](https://bioconductor.org/packages/release/bioc/html/DESeq2.html)
 - [IQ-TREE](http://www.iqtree.org/)
