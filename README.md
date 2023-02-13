@@ -25,3 +25,4 @@ Note that the data used in this work has not been included in the repository as 
 - [BEDtools](https://bedtools.readthedocs.io/en/latest/)
 - [DESeq2](https://bioconductor.org/packages/release/bioc/html/DESeq2.html)
 - [IQ-TREE](http://www.iqtree.org/)
+- [Blast+](https://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE_TYPE=BlastDocs&DOC_TYPE=Download)
