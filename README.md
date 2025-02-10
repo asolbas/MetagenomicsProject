@@ -1,4 +1,4 @@
-# MetagenomicsProject
+# Metagenomics Project
 
 Code for the final project of the Genomics Data Analysis and Visualization course of the MSc in Computational Biology at the Technical University of Madrid (UPM). 
 
