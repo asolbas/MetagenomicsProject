@@ -14,7 +14,7 @@ The workflow consists on the following steps:
 4. Functional Analysis
 5. Phylogenetic Analysis
 
-Note that the data used in this work has not been included in the repository as it was generated specifically for the Master's course by the professors. Thus, the scripts will point to files that have not been included in this repository.
+Note that the data used in this work has not been included in the repository as it was generated specifically for the Master's course by the Professors. Thus, the scripts will point to files that have not been included in this repository.
 
 ## Scripts
 
